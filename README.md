@@ -1,3 +1,5 @@
+<img src="https://www.upload.ee/image/19807845/SCREENSHOT.png" border="0" alt="SCREENSHOT.png" />
+
 # Advance Hash Calculator
 
 A desktop hash calculation and verification utility built with Python and PyQt5.
