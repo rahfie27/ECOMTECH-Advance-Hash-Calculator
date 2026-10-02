@@ -37,6 +37,3 @@ python src/Hash_Check.py
 pip install pyinstaller
 pyinstaller --onefile --windowed --icon app.ico src/Hash_Check.py
 ```
-
-## License
-Add your preferred license before publishing.
